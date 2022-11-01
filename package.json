@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@doc-tools/transform": "2.14.2",
+    "highlight.js": "10.7.3",
+    "punycode": "^2.1.1"
+  }
+}
